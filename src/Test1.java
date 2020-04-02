@@ -2,6 +2,7 @@
 public class Test1 {
 	
 	public static void main(String a[]) {
+		//Value1 initialization
 		int Value1 = 10;
 		   int Value2 = 10;
 		   {
